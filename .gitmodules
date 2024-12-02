@@ -1,0 +1,3 @@
+[submodule "frontend/react"]
+	path = frontend/react
+	url = git@adzazueta.github.com:SvitlaSFI/software-factory-react-modules.git
